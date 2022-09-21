@@ -3,7 +3,6 @@
 ![Person programming](undraw_programming_re_kg9v.svg)
 
 ## Stuff I made by myself
-
 ### Simple face swapping using OpenGL
 Application I created to strenghten my OpenCV knowledge and learn some 3D object manipulation using Python. Code available [here](https://github.com/ibonn/faceswap_gl).
 
@@ -14,6 +13,9 @@ I created this package when I tried to add new svgs to the already existing [py_
 What do you do when no robots are available for one of your college assignments? You create a robot simulator! Yep, that is what I did, and it worked. It has some limitations due to time constraints, as I had to continue with the previously mentioned assignment. You can check it [here](https://github.com/ibonn/robotBox).
 
 ## Some stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ibon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibonn&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibonn&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibonn&theme=tokyonight&count_private=true" />
+</a>
