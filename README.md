@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I'm Ibon
 
-<!--
-**ibonn/ibonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Person programming](undraw_programming_re_kg9v.svg)
 
-Here are some ideas to get you started:
+## Stuff I made by myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Simple face swapping using OpenGL
+Application I created to strenghten my OpenCV knowledge and learn some 3D object manipulation using Python. Code available [here](https://github.com/ibonn/faceswap_gl).
+
+### SVG avatar package for Python
+I created this package when I tried to add new svgs to the already existing [py_avataaars](https://github.com/kebu/py-avataaars) package. As this task was too difficult to do, I forked the project and tried to make the required modifications to achieve this goal. When I noticed that a complete refactor was required, I decided that I would create the library from scratch, and [here](https://github.com/ibonn/python_avatars) it is!
+
+### 2D ePuck robot simulator
+What do you do when no robots are available for one of your college assignments? You create a robot simulator! Yep, that is what I did, and it worked. It has some limitations due to time constraints, as I had to continue with the previously mentioned assignment. You can check it [here](https://github.com/ibonn/robotBox).
+
+## Some stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonn&theme=tokyonight)](https://github.com/ibonn/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibonn&theme=tokyonight)](https://github.com/ibonn/github-readme-stats)
