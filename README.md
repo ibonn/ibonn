@@ -23,7 +23,7 @@ _January 2021 - November 2022_
 * I trained some different models for the project, namely an avatar generation convolutional neural network and a _face/not face_ discriminator network.
 * I deployed and customized EasyAppointments to meet the needs of the project. This site allowed people to request an appointment for the previously mentioned data capture.
 * I developed and deployed a ML model monitoring REST API using Flask, MongoDB and gunicorn.
-* I woerked on the integration of our models into C++ applications.
+* I worked on the integration of our models into C++ applications.
 
 
 ## Stuff I made by myself
