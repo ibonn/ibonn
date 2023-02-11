@@ -2,20 +2,31 @@
 
 ![Person programming](undraw_programming_re_kg9v.svg)
 
-I am a Computer Science graduate by the Public University of Navarre. In my spare time I mantain free software.
-My current interests are:
+I am a Computer Science graduate by the Public University of Navarre. In my spare time I mantain some free software projects.
+
+I am mainly interested in Machine Learning and Deep Learning, but I like learning about many other fields in computer science such as cryptography, software engineering and cybersecurity. I currently use Python as my main programming language as it is the most versatile and popular for ML/DL and my favorite tools/frameworks are:
 
 ![Python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python)
 ![numpy](https://img.shields.io/badge/-numpy-blue?style=for-the-badge&logo=numpy)
 ![PyTorch](https://img.shields.io/badge/-pytorch-gray?style=for-the-badge&logo=pytorch)
 ![Keras](https://img.shields.io/badge/-keras-red?style=for-the-badge&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-opencv-blue?style=for-the-badge&logo=opencv)
+![Visual Studio Code](https://img.shields.io/badge/-vscode-cyan?style=for-the-badge&logo=visual-studio)
+![Pandas](https://img.shields.io/badge/-pandas-darkgreen?style=for-the-badge&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-sklearn-pink?style=for-the-badge&logo=scikit-learn)
+![PySide/Qt](https://img.shields.io/badge/-pyside-green?style=for-the-badge&logo=qt)
+![PyTest](https://img.shields.io/badge/-pytest-darkblue?style=for-the-badge&logo=pytest)
+![MLFlow](https://img.shields.io/badge/-mlflow-white?style=for-the-badge&logo=mlflow)
 
-👉 [Check my portfolio!](https://ibonn.github.io/) 👈
-
-If you have any questions, you can contact me by [e-mail](mailto:ibonescartin@gmail.com?subject=Hi!)
+If you have any questions, you can contact me by [e-mail](mailto:ibonescartin@gmail.com?subject=Hi!).
 
 ## Work Experience
+### **Python Analyst** - INETUM
+_January 2023 - Present day_
+
+### **Project Assistant** - IMITAI, Public University of Navarre
+_December 2022_
+* I studied the state of the art for robotic arm imitation learning
 
 ### **Project Assistant** - Emotional Films, Public University of Navarre
 _January 2021 - November 2022_
