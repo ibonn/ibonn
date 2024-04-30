@@ -7,6 +7,7 @@ I am a Computer Science graduate by the Public University of Navarre. In my spar
 I am mainly interested in Machine Learning and Deep Learning, but I like learning about many other fields in computer science such as cryptography, software engineering and cybersecurity. I currently use Python as my main programming language as it is the most versatile and popular for ML/DL and my favorite tools/frameworks are:
 
 ![Python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/-docker-cyan?style=for-the-badge&logo=docker)
 ![numpy](https://img.shields.io/badge/-numpy-blue?style=for-the-badge&logo=numpy)
 ![PyTorch](https://img.shields.io/badge/-pytorch-gray?style=for-the-badge&logo=pytorch)
 ![Keras](https://img.shields.io/badge/-keras-red?style=for-the-badge&logo=keras)
