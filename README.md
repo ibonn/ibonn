@@ -20,23 +20,6 @@ I am mainly interested in Machine Learning and Deep Learning, but I like learnin
 
 If you have any questions, you can contact me by [e-mail](mailto:ibonescartin@gmail.com?subject=Hi!).
 
-## Work Experience
-### **Python Analyst** - INETUM
-_January 2023 - Present day_
-
-### **Project Assistant** - IMITAI, Public University of Navarre
-_December 2022_
-* I studied the state of the art for robotic arm imitation learning
-
-### **Project Assistant** - Emotional Films, Public University of Navarre
-_January 2021 - November 2022_
-* I worked on the development of an app for massive data capture to create a huge (+1.5M images) dataset. The app controlled a computer with 9 webcams at different angles pointed to a person reacting to different images.
-* I trained some different models for the project, namely an avatar generation convolutional neural network and a _face/not face_ discriminator network.
-* I deployed and customized EasyAppointments to meet the needs of the project. This site allowed people to request an appointment for the previously mentioned data capture.
-* I developed and deployed a ML model monitoring REST API using Flask, MongoDB and gunicorn.
-* I worked on the integration of our models into C++ applications.
-
-
 ## Stuff I made by myself
 ### Simple face swapping using OpenGL
 Application I created to strenghten my OpenCV knowledge and learn some 3D object manipulation using Python. Code available [here](https://github.com/ibonn/faceswap_gl).
